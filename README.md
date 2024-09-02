@@ -1,6 +1,6 @@
 ## Hello 👋
 
-I'm Matthew and I'm a sophomore in high school! I do frontend & backend development. I have worked on many projects, including websites, Discord bots, and other applications.
+I'm Matthew and I'm a junior in high school! I do frontend & backend development. I have worked on many projects, including websites, Discord bots, and games.
 
 You can reach out at [matthewglasser.org/contact](https://matthewglasser.org/contact) or send me an email at matthew@matthewglasser.org. You can also find me on [LinkedIn](https://linkedin.com/in/matthew-glasser) and [Discord](https://discord.com/users/708753489630855198).
 
